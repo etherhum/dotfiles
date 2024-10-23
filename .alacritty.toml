@@ -1,0 +1,18 @@
+[window]
+
+opacity = 0.9
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+
+[font]
+
+normal.family = "Liberation Mono"
+bold.family = "Liberation Mono"
+italic.family = "Liberation Mono"
+bold_italic.family = "Liberation Mono"
+
+size = 6.0
